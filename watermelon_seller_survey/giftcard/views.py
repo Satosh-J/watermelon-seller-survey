@@ -1,3 +1,9 @@
 from django.shortcuts import render
 
-# Create your views here.
+
+def seller_intake_survey(request):
+    return render(request, 'form.html')
+
+
+def seller_intake_survey_list(request):
+    return render(request, 'results.html')
