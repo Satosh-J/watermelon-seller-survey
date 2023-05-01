@@ -2,6 +2,10 @@
 
 This project is the simple multi-step form with django, native template.
 
+
+https://user-images.githubusercontent.com/95545435/235451820-af34d0ee-a78d-4ac7-b989-e4fdd701d328.mp4
+
+
 ## Requirements
 
 - Python 3.8
